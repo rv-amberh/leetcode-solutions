@@ -17,6 +17,7 @@ A collection of my solved LeetCode problems. :)
 | [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rv-amberh/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rv-amberh/leetcode-solutions/tree/master/0036-valid-sudoku) |
+## Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rv-amberh/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
