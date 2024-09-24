@@ -16,6 +16,7 @@ A collection of my solved LeetCode problems. :)
 | ------- |
 | [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of my solved LeetCode problems. :)
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/rv-amberh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/rv-amberh/leetcode-solutions/tree/master/0792-binary-search) |
+| [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rv-amberh/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
@@ -80,4 +82,16 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/rv-amberh/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
+## Interactive
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
 <!---LeetCode Topics End-->
