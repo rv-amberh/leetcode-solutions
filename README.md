@@ -21,6 +21,7 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rv-amberh/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/rv-amberh/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -31,6 +32,7 @@ A collection of my solved LeetCode problems. :)
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rv-amberh/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -94,4 +96,8 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rv-amberh/leetcode-solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
