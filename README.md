@@ -17,6 +17,7 @@ A collection of my solved LeetCode problems. :)
 | [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
+| [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rv-amberh/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -65,6 +66,7 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/rv-amberh/leetcode-solutions/tree/master/0792-binary-search) |
+| [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Stack
 |  |
 | ------- |
@@ -104,5 +107,6 @@ A collection of my solved LeetCode problems. :)
 ## Sliding Window
 |  |
 | ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rv-amberh/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
