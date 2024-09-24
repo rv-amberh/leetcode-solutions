@@ -19,6 +19,7 @@ A collection of my solved LeetCode problems. :)
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rv-amberh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -57,4 +58,12 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rv-amberh/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rv-amberh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
