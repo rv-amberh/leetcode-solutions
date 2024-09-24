@@ -14,16 +14,19 @@ A collection of my solved LeetCode problems. :)
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0058-length-of-last-word) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rv-amberh/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -32,6 +35,7 @@ A collection of my solved LeetCode problems. :)
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
