@@ -18,6 +18,7 @@ A collection of my solved LeetCode problems. :)
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rv-amberh/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
@@ -48,4 +49,8 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
