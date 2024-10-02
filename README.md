@@ -30,6 +30,7 @@ A collection of my solved LeetCode problems. :)
 | [0739-daily-temperatures](https://github.com/rv-amberh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/rv-amberh/leetcode-solutions/tree/master/0792-binary-search) |
 | [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
+| [1046-max-consecutive-ones-iii](https://github.com/rv-amberh/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/rv-amberh/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/rv-amberh/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Two Pointers
 |  |
@@ -79,6 +81,7 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/rv-amberh/leetcode-solutions/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/rv-amberh/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Stack
 |  |
@@ -107,6 +110,7 @@ A collection of my solved LeetCode problems. :)
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/rv-amberh/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rv-amberh/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
