@@ -25,6 +25,7 @@ A collection of my solved LeetCode problems. :)
 | [0011-container-with-most-water](https://github.com/rv-amberh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/rv-amberh/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rv-amberh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/rv-amberh/leetcode-solutions/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/rv-amberh/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -77,6 +78,7 @@ A collection of my solved LeetCode problems. :)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rv-amberh/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rv-amberh/leetcode-solutions/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of my solved LeetCode problems. :)
 | [1046-max-consecutive-ones-iii](https://github.com/rv-amberh/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rv-amberh/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/rv-amberh/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
