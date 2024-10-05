@@ -55,9 +55,11 @@ const findMaxAverage = (nums, k) => {
 
     while(rp < nums.length) {
        let temp = lp == 0 ? newList[rp] : newList[rp] - newList[lp - 1];
+       console.log(temp, 'temp')
        ans = Math.max(temp/k, ans)
        lp++;
        rp++;
     }
+    console.log(newList, 'n')
     return ans;
 }
