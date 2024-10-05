@@ -12,7 +12,7 @@
 var deleteDuplicates = function(head) {
     let holder = new Set();
 
-    if(!head) return head
+    if(!head) return head;
 
     let curr = head.next;
     let prev = head;
