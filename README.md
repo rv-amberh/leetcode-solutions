@@ -28,6 +28,7 @@ A collection of my solved LeetCode problems. :)
 | [0055-jump-game](https://github.com/rv-amberh/leetcode-solutions/tree/master/0055-jump-game) |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0643-maximum-average-subarray-i](https://github.com/rv-amberh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/rv-amberh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/rv-amberh/leetcode-solutions/tree/master/0792-binary-search) |
 | [0873-guess-the-word](https://github.com/rv-amberh/leetcode-solutions/tree/master/0873-guess-the-word) |
@@ -112,6 +113,7 @@ A collection of my solved LeetCode problems. :)
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rv-amberh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/rv-amberh/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/rv-amberh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rv-amberh/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
