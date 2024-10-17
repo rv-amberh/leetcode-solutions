@@ -30,6 +30,7 @@ A collection of my solved LeetCode problems. :)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rv-amberh/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/rv-amberh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/rv-amberh/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/rv-amberh/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rv-amberh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/rv-amberh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/rv-amberh/leetcode-solutions/tree/master/0792-binary-search) |
@@ -83,6 +84,7 @@ A collection of my solved LeetCode problems. :)
 | [0011-container-with-most-water](https://github.com/rv-amberh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rv-amberh/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rv-amberh/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/rv-amberh/leetcode-solutions/tree/master/0605-can-place-flowers) |
 ## Binary Search
 |  |
 | ------- |
